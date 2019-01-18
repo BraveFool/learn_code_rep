@@ -1,0 +1,15 @@
+.idea
+.DS_STORE
+*.jar
+*.class
+target
+logs
+*.iml
+*.ipr
+*.iws
+swagger.json
+document.html
+
+tree
+tree.*
+*.tree
